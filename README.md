@@ -1,4 +1,4 @@
-# CodeDown
+# CodeDown Issues
 
 This is an issue tracker for [CodeDown](https://codedown.io).
 
